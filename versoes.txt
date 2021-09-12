@@ -1,0 +1,3 @@
+registro1: git status e git add
+
+Praticando!
